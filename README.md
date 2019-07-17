@@ -4,5 +4,6 @@
 
 ## 풀이 목록
 
-10039번 평균 점수
 [10039번 평균 점수](https://www.acmicpc.net/problem/10039)
+
+[2577번 숫자의 개수](https://www.acmicpc.net/problem/2577)
